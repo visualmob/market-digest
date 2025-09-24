@@ -1,0 +1,11 @@
+feedparser
+beautifulsoup4
+requests
+pandas
+numpy
+python-dateutil
+pytz
+yfinance
+Pillow
+matplotlib
+rapidfuzz
